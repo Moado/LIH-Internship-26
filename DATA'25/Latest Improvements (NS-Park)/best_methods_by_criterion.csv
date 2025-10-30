@@ -1,0 +1,4 @@
+Mechanism,Best_MAE,Best_R2
+MCAR,MissForest,MissForest
+MAR,MissForest,MissForest
+MNAR,MissForest,MissForest
