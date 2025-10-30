@@ -3,6 +3,7 @@
 # Moad Hani - Research Portfolio
 
 ## Published Work
+- AHN-BudgetNet (September 2025)
 - OLA25 (July 2025)
 - Dual_Benchmark (July 2025)
 
